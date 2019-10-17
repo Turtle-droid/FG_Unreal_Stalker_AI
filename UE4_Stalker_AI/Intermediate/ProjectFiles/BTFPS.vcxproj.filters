@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BTFPS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0009EBBF-6FC8-44E2-A298-D3B5EB12D7CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BTFPS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BTFPSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D8420EBB-0D0A-42C5-AF05-3635D2AD7505}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{7A990DB7-1846-4F18-AF1C-D832AEF5906B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{5C9E29B2-DD8B-46A4-8840-7BD1F5782C08}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{12FC4726-2D3E-425C-8C31-267FCFAC2580}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{B662505F-DA22-4806-9415-1FF225D07213}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{F506EB8D-8824-4982-86BC-8415562E278A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{5433C12D-0AC0-4BB6-B31E-12FDC147017C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{F3771B57-F4FC-475C-804A-3847E6763128}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{A03EB8A8-448F-4FD2-B090-60152D33F23E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\BTFPS">
+      <UniqueIdentifier>{21F5D73E-81B4-4EF9-B58B-D20E158DCB81}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BTFPS\BTFPS.Build.cs">
+      <Filter>Source\BTFPS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BTFPS\BTFPS.cpp">
+      <Filter>Source\BTFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\BTFPS.h">
+      <Filter>Source\BTFPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BTFPS\BTFPSGameModeBase.cpp">
+      <Filter>Source\BTFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\BTFPSGameModeBase.h">
+      <Filter>Source\BTFPS</Filter>
+    </ClInclude>
+    <Filter Include="Source\BTFPS\AI">
+      <UniqueIdentifier>{A22E2F9C-C9FC-4EAB-A1DE-3D0F4CB4173C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BTFPS\AI\AIFPSCharacter.cpp">
+      <Filter>Source\BTFPS\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\AI\AIFPSCharacter.h">
+      <Filter>Source\BTFPS\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BTFPS\AI\AISpawner.cpp">
+      <Filter>Source\BTFPS\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\AI\AISpawner.h">
+      <Filter>Source\BTFPS\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\BTFPS\Character">
+      <UniqueIdentifier>{0DFE2696-BCA9-458E-A498-7A68020789D1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BTFPS\Character\FPSCharacter.cpp">
+      <Filter>Source\BTFPS\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\Character\FPSCharacter.h">
+      <Filter>Source\BTFPS\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BTFPS\Character\FPSCharacterMovementComponent.cpp">
+      <Filter>Source\BTFPS\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\Character\FPSCharacterMovementComponent.h">
+      <Filter>Source\BTFPS\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\BTFPS\Components">
+      <UniqueIdentifier>{6A537D62-E46D-488D-8461-1A8C3573CD32}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BTFPS\Components\RecoilComponent.cpp">
+      <Filter>Source\BTFPS\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\Components\RecoilComponent.h">
+      <Filter>Source\BTFPS\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\BTFPS\Controller">
+      <UniqueIdentifier>{20B4CBE9-F4F7-4283-BB3E-A76E58EC484D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BTFPS\Controller\FPSAIController.cpp">
+      <Filter>Source\BTFPS\Controller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\Controller\FPSAIController.h">
+      <Filter>Source\BTFPS\Controller</Filter>
+    </ClInclude>
+    <Filter Include="Source\BTFPS\Weapon">
+      <UniqueIdentifier>{CB809337-06D8-46A0-833D-DCB671BE8EB6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BTFPS\Weapon\FPSWeapon.cpp">
+      <Filter>Source\BTFPS\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BTFPS\Weapon\FPSWeapon.h">
+      <Filter>Source\BTFPS\Weapon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

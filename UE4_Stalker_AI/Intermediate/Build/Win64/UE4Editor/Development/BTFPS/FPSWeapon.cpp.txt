@@ -1,0 +1,19 @@
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\Definitions.BTFPS.h
+e:\futuregames\onedrive\onedrive - change maker education\artificial intelligence in game production\ue4_stalker_ai\source\btfps\weapon\FPSWeapon.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Inc\BTFPS\FPSWeapon.generated.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+f:\epic games\ue_4.23\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

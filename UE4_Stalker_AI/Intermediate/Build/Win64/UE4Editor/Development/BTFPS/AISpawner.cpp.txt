@@ -1,0 +1,13 @@
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\Definitions.BTFPS.h
+e:\futuregames\onedrive\onedrive - change maker education\artificial intelligence in game production\ue4_stalker_ai\source\btfps\ai\AISpawner.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Inc\BTFPS\AISpawner.generated.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Source\BTFPS\AI/AIFPSCharacter.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Source\BTFPS\Character/FPSCharacter.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Inc\BTFPS\FPSCharacter.generated.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Inc\BTFPS\AIFPSCharacter.generated.h

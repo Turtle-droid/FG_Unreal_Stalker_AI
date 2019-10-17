@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BTFPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\BTFPSEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\AIFPSCharacter.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\AISpawner.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSCharacter.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSCharacterMovementComponent.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\RecoilComponent.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSAIController.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSWeapon.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\BTFPS.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\BTFPSGameModeBase.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\AIFPSCharacter.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\AISpawner.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\BTFPS.init.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\BTFPSGameModeBase.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSAIController.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSCharacter.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSCharacterMovementComponent.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\FPSWeapon.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\RecoilComponent.gen.cpp.obj"
+"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\Default.rc2.res"
+/OUT:"E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\UE4Editor-BTFPS.lib"
+/INCLUDE:IMPLEMENT_MODULE_BTFPS

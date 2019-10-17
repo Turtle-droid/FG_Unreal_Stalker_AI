@@ -1,0 +1,3 @@
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\Definitions.BTFPS.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

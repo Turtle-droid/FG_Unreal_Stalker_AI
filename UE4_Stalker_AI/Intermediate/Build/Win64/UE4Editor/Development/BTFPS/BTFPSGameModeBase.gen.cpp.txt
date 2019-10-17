@@ -1,0 +1,9 @@
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Intermediate\Build\Win64\UE4Editor\Development\BTFPS\Definitions.BTFPS.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\FutureGames\OneDrive\OneDrive - Change Maker Education\Artificial Intelligence in Game Production\UE4_Stalker_AI\Source\BTFPS/BTFPSGameModeBase.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+e:\futuregames\onedrive\onedrive - change maker education\artificial intelligence in game production\ue4_stalker_ai\intermediate\build\win64\ue4editor\inc\btfps\BTFPSGameModeBase.generated.h
