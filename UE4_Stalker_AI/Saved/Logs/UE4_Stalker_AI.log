@@ -1,0 +1,1199 @@
+﻿Log file open, 10/17/19 23:26:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE4_Stalker_AI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063129
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:607][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:611][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:611][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-21.26.56:611][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-21.26.56:612][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-21.26.56:613][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-21.26.56:613][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-21.26.56:613][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.17-21.26.56:615][  0]LogHAL: Display: Platform has ~ 16 GB [17134907392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.17-21.26.56:615][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.17-21.26.56:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.17-21.26.56:615][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Scalability.ini]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.17-21.26.56:616][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.17-21.26.56:617][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.17-21.26.56:617][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.17-21.26.56:617][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Config/Windows/Engine.ini]
+[2019.10.17-21.26.56:617][  0]LogInit: Computer: DESKTOP-4THSS35
+[2019.10.17-21.26.56:617][  0]LogInit: User: matti
+[2019.10.17-21.26.56:617][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.17-21.26.56:617][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.17-21.26.56:617][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.10.17-21.26.56:617][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.17-21.26.56:617][  0]LogMemory: Process Physical Memory: 99.97 MB used, 99.98 MB peak
+[2019.10.17-21.26.56:617][  0]LogMemory: Process Virtual Memory: 87.91 MB used, 87.91 MB peak
+[2019.10.17-21.26.56:617][  0]LogMemory: Physical Memory: 6172.13 MB used,  10169.00 MB free, 16341.12 MB total
+[2019.10.17-21.26.56:617][  0]LogMemory: Virtual Memory: 4643.43 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.17-21.26.56:621][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.17-21.26.56:642][  0]LogInit: Using OS detected language (sv-SE).
+[2019.10.17-21.26.56:642][  0]LogInit: Using OS detected locale (sv-SE).
+[2019.10.17-21.26.56:643][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2019.10.17-21.26.56:810][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.17-21.26.56:844][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.17-21.26.56:844][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.17-21.26.56:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.17-21.26.56:976][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.17-21.26.57:039][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.10.17-21.26.57:039][  0]LogD3D11RHI:       4043/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.17-21.26.57:041][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.17-21.26.57:041][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.17-21.26.57:041][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.17-21.26.57:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.17-21.26.57:047][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.17-21.26.57:047][  0]LogWindows: EnumDisplayDevices:
+[2019.10.17-21.26.57:048][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.10.17-21.26.57:048][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.10.17-21.26.57:049][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.10.17-21.26.57:049][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.10.17-21.26.57:049][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.17-21.26.57:049][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.10.17-21.26.57:049][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.10.17-21.26.57:049][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.10.17-21.26.57:049][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.10.17-21.26.57:087][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.17-21.26.57:102][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.17-21.26.57:411][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.17-21.26.57:418][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.17-21.26.57:425][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.17-21.26.57:432][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.17-21.26.57:439][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.17-21.26.57:446][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.17-21.26.57:453][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.17-21.26.57:460][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.17-21.26.57:464][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.17-21.26.57:496][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.17-21.26.57:498][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.17-21.26.57:513][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.17-21.26.57:513][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.17-21.26.57:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.17-21.26.57:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.17-21.26.57:534][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.17-21.26.57:540][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.17-21.26.57:546][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.17-21.26.57:553][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.17-21.26.57:575][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.17-21.26.57:575][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.17-21.26.57:575][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.17-21.26.57:582][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.17-21.26.57:619][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Intermediate/Shaders/WorkingDirectory/13124/).
+[2019.10.17-21.26.57:619][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matti/AppData/Local/Temp/UnrealShaderWorkingDir/CC2E633A461963DA94E7C785A32A507D/'.
+[2019.10.17-21.26.57:620][  0]LogXGEController: Cleaning working directory: C:/Users/matti/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.17-21.26.57:620][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.17-21.26.57:620][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.17-21.26.57:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.17-21.26.58:211][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.17-21.26.58:259][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/matti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.17-21.26.58:259][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.17-21.26.58:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.17-21.26.58:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.17-21.26.58:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-21.26.58:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.17-21.26.58:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.17-21.26.58:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.17-21.26.58:271][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.17-21.26.58:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.17-21.26.58:272][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.17-21.26.58:272][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.17-21.26.58:293][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.17-21.26.58:297][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.17-21.26.58:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.17-21.26.58:346][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.10.17-21.26.58:592][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.17-21.26.58:728][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.17-21.26.58:728][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.17-21.26.58:728][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.17-21.26.58:728][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.17-21.26.58:728][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.17-21.26.58:739][  0]LogNetVersion: UE4_Stalker_AI 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1320472862)
+[2019.10.17-21.26.59:132][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.043874 seconds
+[2019.10.17-21.26.59:139][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.17-21.26.59:139][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.17-21.26.59:139][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.17-21.26.59:876][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.17-21.26.59:879][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.17-21.26.59:930][  0]SourceControl: Source control is disabled
+[2019.10.17-21.26.59:931][  0]SourceControl: Source control is disabled
+[2019.10.17-21.26.59:932][  0]SourceControl: Source control is disabled
+[2019.10.17-21.26.59:933][  0]SourceControl: Source control is disabled
+[2019.10.17-21.27.00:012][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.17-21.27.00:556][  0]LogOcInput: OculusInput pre-init called
+[2019.10.17-21.27.00:560][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.17-21.27.00:560][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.17-21.27.00:622][  0]LogEngine: Initializing Engine...
+[2019.10.17-21.27.00:622][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.17-21.27.00:623][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.17-21.27.00:838][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.17-21.27.00:847][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.17-21.27.00:933][  0]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.27.00:961][  0]LogInit: FAudioDevice initialized.
+[2019.10.17-21.27.00:962][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.17-21.27.01:036][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/matti/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.17-21.27.01:047][  0]LogInit: Texture streaming: Enabled
+[2019.10.17-21.27.01:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.17-21.27.01:123][  0]LogInit: Transaction tracking system initialized
+[2019.10.17-21.27.01:143][  0]BlueprintLog: New page: Editor Load
+[2019.10.17-21.27.01:197][  0]LocalizationService: Localization service is disabled
+[2019.10.17-21.27.01:386][  0]LogFileCache: Scanning file cache for directory 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/' took 0.00s
+[2019.10.17-21.27.01:386][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.17-21.27.01:386][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.17-21.27.01:532][  0]SourceControl: Source control is disabled
+[2019.10.17-21.27.01:532][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-21.27.01:532][  0]LightingResults: New page: Lighting Build
+[2019.10.17-21.27.01:534][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.27.01:534][  0]MapCheck: New page: Map Check
+[2019.10.17-21.27.01:534][  0]LightingResults: New page: Lighting Build
+[2019.10.17-21.27.01:558][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.17-21.27.01:626][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.17-21.27.01:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-21.27.01:656][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.17-21.27.01:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-21.27.01:657][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,166ms to complete.
+[2019.10.17-21.27.01:657][  0]LogFileHelpers: Loading map 'Template_Default' took 0.125
+[2019.10.17-21.27.01:755][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.27.01:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.27.01:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.27.01:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.27.01:781][  0]LogCollectionManager: Loaded 0 collections in 0.000898 seconds
+[2019.10.17-21.27.01:785][  0]LogFileCache: Scanning file cache for directory 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/Collections/' took 0.00s
+[2019.10.17-21.27.01:785][  0]LogFileCache: Scanning file cache for directory 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Developers/matti/Collections/' took 0.00s
+[2019.10.17-21.27.01:785][  0]LogFileCache: Scanning file cache for directory 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Collections/' took 0.00s
+[2019.10.17-21.27.01:785][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.17-21.27.01:793][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2871 classes and 686 folders.
+[2019.10.17-21.27.01:798][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.17-21.27.01:826][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.17-21.27.01:831][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.17-21.27.01:849][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.17-21.27.01:850][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.17-21.27.01:854][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.17-21.27.01:914][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-21.27.01:988][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.17-21.27.02:001][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.17-21.27.02:011][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.17-21.27.02:011][  0]LogLoad: (Engine Initialization) Total time: 6.88 seconds
+[2019.10.17-21.27.02:011][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.17-21.27.02:057][  0]LogAssetRegistry: Asset discovery search completed in 3.7116 seconds
+[2019.10.17-21.27.02:060][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.17-21.27.02:060][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.10.17-21.27.02:060][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.17-21.27.02:084][  0]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-21.27.04:037][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.27.11:059][844]LogLinker: Warning: Asset 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.10.17-21.27.11:127][844]LogLinker: Warning: Asset 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Animations/FPP_Animations/HerroFPP_RifleFire_Montage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.10.17-21.27.11:132][844]LogLinker: Warning: Asset 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Effects/ParticleSystems/Weapons/AssaultRifle/Muzzle/P_AssaultRifle_MF.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.10.17-21.27.11:385][844]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.17-21.27.11:392][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2019.10.17-21.27.11:601][844]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.17-21.27.12:377][844]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.17-21.27.12:450][845]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.17-21.27.35:504][884]LogSlate: Window 'BP_Player' being destroyed
+[2019.10.17-21.27.35:508][884]LogSlate: Window 'BP_Player' being destroyed
+[2019.10.17-21.27.35:509][884]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/EQS/EQS_TracePlayer.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:254][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:255][282]LogLinker: Warning: While loading 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset' failed to load '/Script/EnvironmentQueryEditor': Can't find file.
+[2019.10.17-21.27.47:268][282]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/BehaviorTree/BT_StalkerBase.BT_StalkerBase
+[2019.10.17-21.29.58:188][619]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_StalkerBase592BF12E4B5E1A2EE2D7B2A4ED0BD4E4.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset'
+[2019.10.17-21.30.00:302][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.30.00:312][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.17-21.30.00:314][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.30.00:315][868]PIE: New page: PIE session: Untitled_1 (18 okt 2019 01:30:00)
+[2019.10.17-21.30.00:316][868]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.17-21.30.00:317][868]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.10.17-21.30.00:319][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002391s)
+[2019.10.17-21.30.00:320][868]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.17-21.30.00:320][868]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2019.10.17-21.30.00:320][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003888s)
+[2019.10.17-21.30.00:357][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.17-21.30.00:388][868]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.30.00:405][868]LogInit: FAudioDevice initialized.
+[2019.10.17-21.30.00:418][868]LogLoad: Game class is 'GameModeBase'
+[2019.10.17-21.30.00:420][868]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.10.17-23.30.00
+[2019.10.17-21.30.00:420][868]LogWorld: Bringing up level for play took: 0.000454
+[2019.10.17-21.30.00:420][868]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.17-21.30.00:425][868]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.17-21.30.00:426][868]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 −0,748
+[2019.10.17-21.30.00:426][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.17-21.30.01:159][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.17-21.30.01:161][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.30.01:161][921]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.10.17-21.30.01:161][921]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.30.01:169][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.30.01:170][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.10.17-21.30.01:207][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.30.01:243][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.10.17-21.30.01:266][923]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.17-21.30.03:957][242]LogLinker: Warning: Asset 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.10.17-21.30.04:021][242]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.10.17-21.30.04:022][242]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.17-21.30.04:454][242]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.30.04:467][242]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena
+[2019.10.17-21.30.04:518][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.17-21.30.04:518][242]Cmd: MAP LOAD FILE="E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Maps/MAP_Stalker_Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-21.30.04:519][242]LightingResults: New page: Lighting Build
+[2019.10.17-21.30.04:519][242]LoadErrors: New page: Loading map: MAP_Stalker_Arena.umap
+[2019.10.17-21.30.04:519][242]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.30.04:519][242]MapCheck: New page: Map Check
+[2019.10.17-21.30.04:519][242]LightingResults: New page: Lighting Build
+[2019.10.17-21.30.04:546][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.17-21.30.04:552][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-21.30.04:581][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.17-21.30.04:600][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-21.30.04:601][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2019.10.17-21.30.04:601][242]LogFileHelpers: Loading map 'MAP_Stalker_Arena' took 0.083
+[2019.10.17-21.30.06:761][493]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.30.06:773][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.30.06:775][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.30.06:775][493]PIE: New page: PIE session: MAP_Stalker_Arena (18 okt 2019 01:30:06)
+[2019.10.17-21.30.06:775][493]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.30.07:033][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256786s)
+[2019.10.17-21.30.07:034][493]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.30.07:034][493]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2019.10.17-21.30.07:034][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena to /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena (0.258697s)
+[2019.10.17-21.30.07:060][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.17-21.30.07:089][493]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.30.07:105][493]LogInit: FAudioDevice initialized.
+[2019.10.17-21.30.07:117][493]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.17-21.30.07:122][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena up for play (max tick rate 0) at 2019.10.17-23.30.07
+[2019.10.17-21.30.07:122][493]LogWorld: Bringing up level for play took: 0.004189
+[2019.10.17-21.30.07:122][493]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.10.17-21.30.07:124][493]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.30.07:124][493]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.30.07:124][493]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.30.07:127][493]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.30.07:127][493]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena −0,046
+[2019.10.17-21.30.07:127][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.30.17:638][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.30.17:641][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.30.17:641][745]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.30.17:647][745]LogWorld: UWorld::CleanupWorld for MAP_Stalker_Arena, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.30.17:656][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.30.17:656][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.30.17:689][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.30.17:693][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.17-21.30.17:746][749]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.17-21.30.19:385][881]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.17-21.30.26:662][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.31.10:832][649]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_StalkerBase6C2168A1416E20FFC37358807CC27327.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset'
+[2019.10.17-21.31.13:276][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.31.13:286][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.31.13:288][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.31.13:288][939]PIE: New page: PIE session: MAP_Stalker_Arena (18 okt 2019 01:31:13)
+[2019.10.17-21.31.13:288][939]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.31.13:550][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262086s)
+[2019.10.17-21.31.13:552][939]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.31.13:552][939]LogPlayLevel: PIE: World Init took: (0.001889s)
+[2019.10.17-21.31.13:552][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena to /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena (0.264115s)
+[2019.10.17-21.31.13:577][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.17-21.31.13:609][939]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.31.13:627][939]LogInit: FAudioDevice initialized.
+[2019.10.17-21.31.13:636][939]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.17-21.31.13:640][939]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena up for play (max tick rate 0) at 2019.10.17-23.31.13
+[2019.10.17-21.31.13:640][939]LogWorld: Bringing up level for play took: 0.003659
+[2019.10.17-21.31.13:640][939]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.10.17-21.31.13:642][939]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.31.13:642][939]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.31.13:642][939]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.31.13:644][939]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.31.13:645][939]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena 0,471
+[2019.10.17-21.31.13:645][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.31.25:861][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.31.25:864][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.31.25:864][375]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.31.25:869][375]LogWorld: UWorld::CleanupWorld for MAP_Stalker_Arena, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.31.25:878][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.31.25:878][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.31.25:910][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.31.25:914][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.17-21.31.25:960][378]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.17-21.31.27:613][493]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.17-21.34.04:794][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.37.26:625][162]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_StalkerBaseD628F97346507F7DFE8920B57B5C7F3D.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset'
+[2019.10.17-21.37.27:298][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.37.27:418][250]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.37.27:421][250]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.37.28:152][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.37.28:277][351]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.37.28:288][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.37.28:288][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.37.28:288][351]PIE: New page: PIE session: MAP_Stalker_Arena (18 okt 2019 01:37:28)
+[2019.10.17-21.37.28:288][351]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.37.28:550][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.261708s)
+[2019.10.17-21.37.28:552][351]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.37.28:552][351]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2019.10.17-21.37.28:552][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena to /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena (0.263974s)
+[2019.10.17-21.37.28:583][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.10.17-21.37.28:613][351]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.37.28:635][351]LogInit: FAudioDevice initialized.
+[2019.10.17-21.37.28:641][351]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.17-21.37.28:646][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena up for play (max tick rate 0) at 2019.10.17-23.37.28
+[2019.10.17-21.37.28:647][351]LogWorld: Bringing up level for play took: 0.003873
+[2019.10.17-21.37.28:647][351]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.17-21.37.28:648][351]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.37.28:649][351]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.37.28:649][351]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.37.28:652][351]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.37.28:652][351]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena −0,522
+[2019.10.17-21.37.28:652][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.37.43:210][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.37.43:210][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.37.43:210][ 95]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.37.43:216][ 95]LogWorld: UWorld::CleanupWorld for MAP_Stalker_Arena, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.37.43:223][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.37.43:224][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.37.43:255][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.37.43:258][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.17-21.37.43:310][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.17-21.37.47:392][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.37.47:739][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.17-21.37.47:987][323]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/MAP_Stalker_Arena0295DE8B4E06022449FF46A86EC0B3DA.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Maps/MAP_Stalker_Arena.umap'
+[2019.10.17-21.37.48:043][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Stalker_Arena_BuiltData" FILE="E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Maps/MAP_Stalker_Arena_BuiltData.uasset" SILENT=true
+[2019.10.17-21.37.48:138][323]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/MAP_Stalker_Arena_BuiltData37407D4A4E57C4E59DB162875FF3B04D.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Maps/MAP_Stalker_Arena_BuiltData.uasset'
+[2019.10.17-21.43.51:723][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BehaviorTree/BB_Stalker" FILE="E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BB_Stalker.uasset" SILENT=true
+[2019.10.17-21.43.51:730][965]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BB_Stalker6C77F62E427C9DCD78268EB534CE730F.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BB_Stalker.uasset'
+[2019.10.17-21.43.51:907][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.17-21.43.51:941][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.17-21.43.51:965][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.17-21.43.52:011][965]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_AttackTarget2676FB0A4717AD213DC8A58DE1A7F6ED.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_AttackTarget.uasset'
+[2019.10.17-21.43.52:037][965]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_FriendlyBaseA421199140D258DA108DB4BFEB8F8B55.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_FriendlyBase.uasset'
+[2019.10.17-21.43.52:053][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BehaviorTree/BT_PickTarget" FILE="E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_PickTarget.uasset" SILENT=true
+[2019.10.17-21.43.52:069][965]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_PickTargetCF3CDE464482D875E3DA63A26A0CA44B.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_PickTarget.uasset'
+[2019.10.17-21.43.52:103][965]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BT_StalkerBase4B0FA8E642F58E0D0F03C185B98BF1DF.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/BT_StalkerBase.uasset'
+[2019.10.17-21.43.53:256][ 90]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/Blueprints/BehaviorTree/BB_Stalker.BB_Stalker
+[2019.10.17-21.44.06:141][609]LogSlate: Window 'BB_Stalker' being destroyed
+[2019.10.17-21.44.06:145][609]LogSlate: Window 'BB_Stalker' being destroyed
+[2019.10.17-21.45.33:795][685]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/BehaviorTree/BT_StalkerBase.BT_StalkerBase
+[2019.10.17-21.46.01:730][970]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.46.01:733][970]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.46.08:029][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BehaviorTree/Decorator/BTDecorator_RenderedRecently.BTDecorator_RenderedRecently
+[2019.10.17-21.46.13:433][300]BlueprintLog: New page: Compile BTDecorator_RenderedRecently
+[2019.10.17-21.46.13:612][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.17-21.46.13:943][331]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BTDecorator_RenderedRecentlyBFE8F50348639DC6D464599A4F5D762D.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/Decorator/BTDecorator_RenderedRecently.uasset'
+[2019.10.17-21.46.14:561][401]LogSlate: Window 'BTDecorator_RenderedRecently' being destroyed
+[2019.10.17-21.46.14:564][401]LogSlate: Window 'BTDecorator_RenderedRecently' being destroyed
+[2019.10.17-21.46.14:583][401]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.46.15:291][482]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.46.15:304][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.46.15:304][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.46.15:304][482]PIE: New page: PIE session: MAP_Stalker_Arena (18 okt 2019 01:46:15)
+[2019.10.17-21.46.15:304][482]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.46.15:566][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262059s)
+[2019.10.17-21.46.15:567][482]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.46.15:568][482]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2019.10.17-21.46.15:568][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena to /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena (0.263678s)
+[2019.10.17-21.46.15:598][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.17-21.46.15:630][482]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.46.15:647][482]LogInit: FAudioDevice initialized.
+[2019.10.17-21.46.15:658][482]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.17-21.46.15:663][482]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena up for play (max tick rate 0) at 2019.10.17-23.46.15
+[2019.10.17-21.46.15:663][482]LogWorld: Bringing up level for play took: 0.004347
+[2019.10.17-21.46.15:663][482]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.17-21.46.15:665][482]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.46.15:665][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.46.15:665][482]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.46.15:667][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.46.15:667][482]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena 0,494
+[2019.10.17-21.46.15:668][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.46.26:710][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.46.26:710][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.46.26:710][804]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.46.26:716][804]LogWorld: UWorld::CleanupWorld for MAP_Stalker_Arena, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.46.26:722][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.46.26:722][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.46.26:755][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.46.26:758][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.17-21.46.26:812][808]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.17-21.46.29:084][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.46.29:256][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BehaviorTree/Decorator/BTDecorator_RenderedRecently.BTDecorator_RenderedRecently
+[2019.10.17-21.46.56:201][263]LogSavePackage: Moving 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Saved/BTDecorator_RenderedRecently406959E64584C1EC25D0ACB09E65E955.tmp' to 'E:/FutureGames/GitHub/FG_Unreal_Stalker_AI/UE4_Stalker_AI/Content/Blueprints/BehaviorTree/Decorator/BTDecorator_RenderedRecently.uasset'
+[2019.10.17-21.46.57:178][374]BlueprintLog: New page: Compile BTDecorator_RenderedRecently
+[2019.10.17-21.46.57:351][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.17-21.46.57:904][435]LogSlate: Window 'BTDecorator_RenderedRecently' being destroyed
+[2019.10.17-21.46.57:908][435]LogSlate: Window 'BTDecorator_RenderedRecently' being destroyed
+[2019.10.17-21.46.57:908][435]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.47.05:641][357]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/BehaviorTree/BT_StalkerBase.BT_StalkerBase
+[2019.10.17-21.48.30:673][381]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.48.30:677][381]LogSlate: Window 'BT_StalkerBase' being destroyed
+[2019.10.17-21.48.31:575][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.17-21.48.31:585][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.48.31:585][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-21.48.31:585][487]PIE: New page: PIE session: MAP_Stalker_Arena (18 okt 2019 01:48:31)
+[2019.10.17-21.48.31:586][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.48.31:844][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.258929s)
+[2019.10.17-21.48.31:846][487]LogAIModule: Creating AISystem for world MAP_Stalker_Arena
+[2019.10.17-21.48.31:846][487]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2019.10.17-21.48.31:846][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena to /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena (0.260556s)
+[2019.10.17-21.48.31:874][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.17-21.48.31:904][487]LogInit: XAudio2 using 'Speakers (SteelSeries Siberia 800)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.17-21.48.31:919][487]LogInit: FAudioDevice initialized.
+[2019.10.17-21.48.31:924][487]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.17-21.48.31:928][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Stalker_Arena.MAP_Stalker_Arena up for play (max tick rate 0) at 2019.10.17-23.48.31
+[2019.10.17-21.48.31:929][487]LogWorld: Bringing up level for play took: 0.003585
+[2019.10.17-21.48.31:929][487]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.17-21.48.31:930][487]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.48.31:930][487]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.17-21.48.31:930][487]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.48.31:933][487]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.17-21.48.31:933][487]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena 0,759
+[2019.10.17-21.48.31:933][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.48.47:950][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.48.47:950][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.48.47:950][356]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Stalker_Arena
+[2019.10.17-21.48.47:956][356]LogWorld: UWorld::CleanupWorld for MAP_Stalker_Arena, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.48.47:966][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-21.48.47:966][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena' with GeneratedClass '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena_C' with ClassGeneratedBy '/Game/Maps/MAP_Stalker_Arena.MAP_Stalker_Arena:PersistentLevel.MAP_Stalker_Arena'
+[2019.10.17-21.48.47:998][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-21.48.48:002][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.17-21.48.48:057][360]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.17-21.48.50:258][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-21.48.50:376][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.17-21.48.50:435][635]LogSlate: Window 'UE4_Stalker_AI - Unreal Editor' being destroyed
+[2019.10.17-21.48.50:553][636]Cmd: QUIT_EDITOR
+[2019.10.17-21.48.51:472][636]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.17-21.48.51:484][636]LogExit: Preparing to exit.
+[2019.10.17-21.48.51:637][636]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.48.51:679][636]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.17-21.48.51:738][636]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.17-21.48.51:739][636]LogExit: Editor shut down
+[2019.10.17-21.48.51:739][636]LogExit: Transaction tracking system shut down
+[2019.10.17-21.48.52:183][636]LogExit: Object subsystem successfully closed.
+[2019.10.17-21.48.52:197][636]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (678)
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module Voice (676)
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2019.10.17-21.48.52:249][636]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (660)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.10.17-21.48.52:250][636]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.10.17-21.48.52:251][636]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.10.17-21.48.52:912][636]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.10.17-21.48.52:913][636]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.10.17-21.48.52:957][636]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.10.17-21.48.52:964][636]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.10.17-21.48.52:964][636]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.10.17-21.48.52:964][636]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.10.17-21.48.52:964][636]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module ModuleUI (470)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module MovieSceneTools (468)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module OutputLog (466)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module GammaUI (464)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module Documentation (462)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module LiveCoding (460)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module LevelSequence (458)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2019.10.17-21.48.52:965][636]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2019.10.17-21.48.52:966][636]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.10.17-21.48.52:969][636]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.10.17-21.48.53:015][636]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.10.17-21.48.53:015][636]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.10.17-21.48.53:015][636]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.10.17-21.48.53:015][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.10.17-21.48.53:015][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.10.17-21.48.53:016][636]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module BTFPS (310)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.17-21.48.53:017][636]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.17-21.48.53:117][636]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.17-21.48.53:218][636]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.17-21.48.53:218][636]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.17-21.48.53:219][636]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.17-21.48.53:219][636]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.17-21.48.53:219][636]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.17-21.48.53:219][636]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.17-21.48.53:219][636]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.17-21.48.53:221][636]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.17-21.48.53:221][636]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.17-21.48.53:221][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.17-21.48.53:221][636]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.17-21.48.53:221][636]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.17-21.48.53:224][636]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.17-21.48.53:225][636]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.17-21.48.53:226][636]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.17-21.48.53:273][636]LogDerivedDataCache: Shutdown
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.17-21.48.53:274][636]LogXGEController: Cleaning working directory: C:/Users/matti/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.17-21.48.53:274][636]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.17-21.48.53:275][636]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.17-21.48.53:275][636]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.17-21.48.53:275][636]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.17-21.48.53:275][636]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.17-21.48.53:275][636]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.17-21.48.53:276][636]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.17-21.48.53:276][636]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.17-21.48.53:277][636]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.17-21.48.53:277][636]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.17-21.48.53:282][636]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.17-21.48.53:283][636]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.17-21.48.53:283][636]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.17-21.48.53:284][636]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.17-21.48.53:298][636]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.17-21.48.53:298][636]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.17-21.48.53:298][636]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C45166F-4F75-F123-F348-0AB955216C60%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=76c5c2154faa1298ccc7dfac2dd0696f%7Cb891d59b001a4c6283e5182e447aee28%7Ca147154d-4ac8-4da8-a762-e175046775eb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.17-21.48.53:325][636]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.17-21.48.53:326][636]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.17-21.48.53:327][636]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.17-21.48.53:328][636]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.17-21.48.53:330][636]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.17-21.48.53:330][636]LogD3D11RHI: Shutdown
+[2019.10.17-21.48.53:330][636]LogD3D11RHI: CleanupD3DDevice
+[2019.10.17-21.48.53:331][636]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.17-21.48.53:331][636]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.17-21.48.53:331][636]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.17-21.48.53:402][636]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.17-21.48.53:407][636]LogExit: Exiting.
+[2019.10.17-21.48.53:456][636]Log file closed, 10/17/19 23:48:53
